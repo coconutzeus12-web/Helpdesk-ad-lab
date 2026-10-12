@@ -25,8 +25,8 @@ A home lab I built to practice the Active Directory tasks help desk teams handle
 
 | Ticket | Summary |
 |---|---|
-| [Password reset](tickets/01-password-reset.md) | Reset a user's password and troubleshot a rejected new password |
-| [Account lockout](tickets/02-account-lockout.md) | Configured a lockout policy, reproduced a lockout, and unlocked the account |
+| [Password reset](Tickets/01-password-reset.md) | Reset a user's password and troubleshot a rejected new password |
+| [Account lockout](Tickets/02-account-lockout.md) | Configured a lockout policy, reproduced a lockout, and unlocked the account |
 
 ## Problems I Solved While Building It
 
