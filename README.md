@@ -44,3 +44,24 @@ Active Directory Users and Computers · DNS · Group Policy · static IP configu
 - Group membership changes
 - Group Policy objects (desktop restrictions)
 - Pair with my [Jira ticketing lab](link-here)# Helpdesk-ad-lab
+## Screenshots
+
+**Domain controller roles (AD DS and DNS)**
+
+![Server Manager roles](images/01-server-manager-roles.png)
+
+**Organizational unit, user, and security group**
+
+![Active Directory Users and Computers](images/02-aduc-employees.png)
+
+**HelpDesk group membership**
+
+![HelpDesk members](images/03-helpdesk-members.png)
+
+**Resetting a user's password**
+
+![Reset password dialog](images/04-reset-password.png)
+
+**Account lockout policy (3 attempts)**
+
+![Account lockout policy](images/05-lockout-policy.png)
