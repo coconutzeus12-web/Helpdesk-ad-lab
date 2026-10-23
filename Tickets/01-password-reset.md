@@ -24,3 +24,6 @@ User signed in successfully with the new password.
 ## Lessons Learned
 - A rejected new password usually comes down to **history**, **complexity**, or **length**. Check those first.
 - Forcing a password change at next logon means only the user knows the final password.
+## Screenshot
+
+![Reset Password dialog](../images/04-reset-password.png)
