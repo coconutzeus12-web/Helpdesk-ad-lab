@@ -59,7 +59,21 @@ Active Directory Users and Computers · DNS · Group Policy · static IP configu
 ![HelpDesk members](images/03-helpdesk-members.png)
 
 **Resetting a user's password**
+**Account locked out on the client**
 
+![Account locked out message](images/06-lockout-message.png)
+
+**Unlocking the account in Active Directory**
+
+![Unlock account](images/07-unlock-account.png)
+
+**Signed in as a domain user, DNS and connectivity working**
+
+![whoami and ping](images/08-whoami-ping.png)
+
+**Client joined to the lab.local domain**
+
+![Domain joined](images/09-domain-joined.png)
 ![Reset password dialog](images/04-reset-password.png)
 
 **Account lockout policy (3 attempts)**
