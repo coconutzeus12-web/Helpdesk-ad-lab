@@ -27,3 +27,6 @@ Account unlocked and the user signed in successfully.
 ## Lessons Learned
 - Lockouts are enforced by domain policy and fixed on the domain controller, not on the user's PC.
 - In a real environment, verify the user's identity before unlocking an account.
+## Screenshot
+
+![Account lockout policy](../images/05-lockout-policy.png)
