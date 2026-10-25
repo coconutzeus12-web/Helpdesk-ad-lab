@@ -79,3 +79,4 @@ Active Directory Users and Computers · DNS · Group Policy · static IP configu
 **Account lockout policy (3 attempts)**
 
 ![Account lockout policy](images/05-lockout-policy.png)
+ 
